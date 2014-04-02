@@ -15,7 +15,6 @@ There is only one thing we want to tell them.
     <img src="/img/sponsors/topolcany.jpg" alt="Mesto Topoľčany"></img>
     <img src="/img/sponsors/tribecska.png" alt="Základná škola Tribečská"></img>
     <img src="/img/sponsors/sam.png" alt="SAM - Shipbuilding and Machinery"></img>
-    <img src="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png" style="width: 200px;" alt="GitHub"></img>
 </div>
 
 <div id="sponsors_scroller">
@@ -37,6 +36,7 @@ There is only one thing we want to tell them.
     <img src="/img/sponsors/topgame.png" alt="TopGame"></img>
     <img src="/img/sponsors/suavinex.png" alt="suavinex"></img>
     <img src="/img/sponsors/erigones.png" alt="erigones"></img>
+    <img src="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png" alt="github" style="height: 57px;"></img>
 </div>
 
 <script src="/js/libs/imageScroller.js"></script>
